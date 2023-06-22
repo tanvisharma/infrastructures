@@ -1,1 +1,50 @@
-An effort to put together open source frameworks/software/infrastructures used to simulate/emulate DL workload performance for edge and cloud systems.
+## Open Source Simulators
+
+### DNN Accelerators
+
+Timeloop/Accelergy
+
+Maestro
+
+Maeri
+
+Cosa
+
+Zigzag
+
+DNN Chip Predictor
+
+ScaleSim
+
+DNNWeaver
+
+### CPU/GPU/DRAM simulators
+
+gem5
+
+GPGPUSim
+
+AccelSim
+
+DRAMSys
+
+Ramulator
+
+### Chiplet/Networks
+
+BookSim
+
+Astra-Sim
+
+
+### PIM based simulators
+
+UPMEM
+
+SIAM
+
+NeuroSim
+
+GenieX
+
+PUMA
